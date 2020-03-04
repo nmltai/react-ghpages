@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      {/* <ol>
+      <ol>
         <li>Create a new github repo with your username and githubio. Github pages specify what you need to name your repo in order to use ghpages</li>
         <li>Download whatever it takes so you can run the command "npx create-react-app [insert ur name]"</li>
         <li>use the command npx create-react-app</li>
@@ -19,8 +19,8 @@ function App() {
         <li>Now use the command npm run deploy</li>
         <li>Then go to the homepage link in your browser.</li>
         <li>Also to check if you did it right, go to github and the repo you pushed the react app code onto. In the code tab, below commits, click on the branch and you should see ghpages. </li>
-      </ol> */}
-      <p>Create a new github repo with your username and githubio.</p>
+      </ol>
+      {/* <p>Create a new github repo with your username and githubio.</p>
       <p>Github pages specify what you need to name your repo in order to use ghpages.</p>
       <p>Download whatever it takes so you can run the command "npx create-react-app [insert ur name]</p>
       <p>use the command npx create-react-app</p>
@@ -36,7 +36,8 @@ function App() {
       <p>Then go to the homepage link in your browser.</p>
       <p>Also to check if you did it right, go to github and the repo you pushed the react app code onto.</p>
       <p>In the code tab, below commits, click on the branch and you should see ghpages. </p>
-      <p>Now it should work! Everytime you make changes use npm run deploy and it should reflect</p>
+      <p>Now it should work! Everytime you make changes use npm run deploy and it should reflect</p> */}
+
       </header>
     </div>
   );
